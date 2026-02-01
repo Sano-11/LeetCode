@@ -1,4 +1,4 @@
-# Leet Code Solutions
+**A collection of LeetCode Solutions**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
