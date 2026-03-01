@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sano-11/Leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Sano-11/Leet/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Sano-11/Leet/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sano-11/Leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Tree
 |  |
 | ------- |
